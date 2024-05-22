@@ -10,7 +10,7 @@
 	</parent> 
 	<groupId>com.formation</groupId>
 	<artifactId>demo-nexus</artifactId>
-	<version>0.0.2-RELEASE</version>
+	<version>0.0.3-RELEASE</version>
 	<name>demo-nexus</name>
 	<description>Demo project for Spring Boot</description> 
 	<properties> 
